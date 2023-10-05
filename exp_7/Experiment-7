@@ -1,0 +1,7 @@
+Implementation of Stack using Array and Linked List:
+
+The below instructions must be followed to implement them.
+- Create a header file and declare all stack basic operations, including a structure defining the stack ADT.
+- Implement all the stack operations in a .c/.cc file where the file must contain the code for duplicate prevention.
+- Write a client program which will use the ADT to create any number of stacks as required. No complexity of the particular language (like pointer, structure, etc.) will be included in the client code.
+- Replace the stack data elements types with template data variable type such that later on a client program can give arbitrary data type while creating or doing any operations over that ADT
