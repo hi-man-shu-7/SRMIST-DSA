@@ -1,0 +1,1 @@
+Take two strings consecutively from the keyboard, where both strings may contain 'space', 'newline', etc., and store them in two string variables and print them. Repeat the execution by taking one character in between two strings.
