@@ -1,0 +1,1 @@
+Create a structure data type, "Student" which can store information: 'name, 'roll no.', 'age', 'sex', 'address' and 'marks'. Take appropriate data structure to store 5 student's information. Input them from the keyboard and then print the information (all fields) of the students who got more than 60% and 80% marks (Note 80% students will not be included in the 60% zone).
