@@ -5,6 +5,7 @@ int main() {
     char buffer[1024]; // Buffer to store input strings
     char str1[512], str2[512], separator;
 
+    
     while (1) {
         printf("Enter the first string: ");
         fgets(buffer, sizeof(buffer), stdin);
