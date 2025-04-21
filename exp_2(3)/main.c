@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+
 // Define the Student structure
 struct Student {
     char name[50];
