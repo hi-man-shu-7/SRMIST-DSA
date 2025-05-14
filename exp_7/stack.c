@@ -6,6 +6,7 @@ Stack* createStack() {
     stack->top = NULL;
     return stack;
 }
+
 void push(Stack* stack, int value) {
     struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
     newNode->data = value;
